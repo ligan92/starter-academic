@@ -16,25 +16,25 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My PhD topics is about the lattice random walks and exclusion statistics.
 
-interests:
-- Statistical physics
-- Enumerative combinatorics
-- Random walks
+# interests:
+# - Statistical physics
+# - Enumerative combinatorics
+# - Random walks
 
-education:
-  courses:
-  - course: PhD in Mathematical Physics
-    institution: Université Paris-Saclay
-    year: 2023 (expected)
-  - course: MEng in Materials Science 
-    institution: École Centrale de Pékin, Beihang University
-    year: 2018
-  - course: MEng, Diplôme d'ingénieur
-    institution: École Centrale Paris
-    year: 2018
-  - course: BSc in Mathematics
-    institution: École Centrale de Pékin, Beihang University
-    year: 2015
+# education:
+#   courses:
+#   - course: PhD in Mathematical Physics
+#     institution: Université Paris-Saclay
+#     year: 2023 (expected)
+#   - course: MEng in Materials Science 
+#     institution: École Centrale de Pékin, Beihang University
+#     year: 2018
+#   - course: MEng, Diplôme d'ingénieur
+#     institution: École Centrale Paris
+#     year: 2018
+#   - course: BSc in Mathematics
+#     institution: École Centrale de Pékin, Beihang University
+#     year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
