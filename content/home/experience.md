@@ -25,11 +25,8 @@ date_format = "Jan 2006"
   date_start = "2020-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Thesis on the exclusion statistics and lattice random walks.
+  The main fields of interest are combinatorial issues pertaining to the algebraic area of 2D lattice random walks and their continuous Brownian limit, and various implications for the associated quantum models, especially in the field of exclusion statistics, where particles exhibit stronger exclusion than Pauli. It may be generalized to other types of counting, or to higher-dimensional objects (strings, etc.).
   """
 
 [[experience]]
@@ -39,7 +36,7 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2016-09-01"
   date_end = "2018-07-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Thesis on the theory of dielectric electrorheological (ER) fluids: to seek and optimize the structure of particles in ER fluids, by performing theoretical calculation and numerical simulation by Python and COMSOL, to help efficiently fabricate high-performance ER fluids in a laboratory setting."""
 
 [[experience]]
   title = "MEng, Diplôme d'ingénieur"
@@ -48,14 +45,14 @@ date_format = "Jan 2006"
   location = "France"
   date_start = "2014-09-01"
   date_end = "2016-07-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Undergone a rigorous training on a wide range of disciplines."""
 
 [[experience]]
   title = "BSc in Mathematics"
   company = "École Centrale de Pékin, Beihang University"
   company_url = ""
   location = "Beijing, China"
-  date_start = "2014-09-01"
+  date_start = "2011-09-01"
   date_end = "2015-07-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Intensive training in mathematics and physics."""
 +++
