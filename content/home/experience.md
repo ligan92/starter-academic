@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-09-01"
   description = """
-  Author serving for 回形针PaperClip, a Chinese popular science channel on YouTube, bilibili, Weibo, WeChat, etc. The topics include air traffic control, QR codes, chip manufacturing, deep-sea submersible, COVID-19 testing, ICU, ID cards, water meter, etc.
+  Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), bilibili, Weibo, WeChat, etc. The topics include air traffic control, QR codes, chip manufacturing, deep-sea submersible, COVID-19 testing, ICU, ID cards, water meter, etc.
   """
 
 [[experience]]
