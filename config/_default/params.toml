@@ -104,7 +104,7 @@ directions = "Enter Building No. 530 and take the stairs to Office L221 on the 3
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 9:30 to 19:00", "Tuesday 09:30 to 19:00","Wednesday 9:30 to 19:00","Thursday 9:30 to 19:00","Friday 9:30 to 18:30"]
+office_hours = ["Monday-Friday 9:30-19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"

@@ -10,8 +10,8 @@ role: PhD candidate in physics
 
 # Organizations/Affiliations
 organizations:
-- name: LPTMS, France
-  url: "http://lptms.u-psud.fr/en/"
+- name: Université Paris-Saclay
+  url: "https://www.universite-paris-saclay.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My PhD topics is about the lattice random walks and exclusion statistics.
@@ -43,10 +43,10 @@ bio: My PhD topics is about the lattice random walks and exclusion statistics.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/LiGan1992
+  link: mailto:li.gan@u-psud.fr  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/LiGan1992
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=q9zc0IAAAAAJ&hl=en
