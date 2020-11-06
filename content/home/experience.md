@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD candidate in mathematical physics"
-  company = "LPTMS"
+  title = "LPTMS, Universite Paris-Saclay"
+  company = "PhD candidate in mathematical physics"
   company_url = ""
   location = "Orsay, France"
   date_start = "2020-10-01"
@@ -30,8 +30,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "MEng in Materials Science"
-  company = "Beihang University"
+  title = "Beihang University"
+  company = "MEng in Materials Science"
   company_url = ""
   location = "Beijing, China"
   date_start = "2016-09-01"
@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   description = """Thesis on the theory of dielectric electrorheological (ER) fluids: to seek and optimize the structure of particles in ER fluids, by performing theoretical calculation and numerical simulation by Python and COMSOL, to help efficiently fabricate high-performance ER fluids in a laboratory setting."""
 
 [[experience]]
-  title = "MEng, Diplôme d'ingénieur"
-  company = "École Centrale Paris"
+  title = "École Centrale Paris (now known as CentraleSupelec)"
+  company = "MEng, Diplôme d'ingénieur"
   company_url = ""
   location = "France"
   date_start = "2014-09-01"
@@ -48,8 +48,8 @@ date_format = "Jan 2006"
   description = """Undergone a rigorous training on a wide range of disciplines."""
 
 [[experience]]
-  title = "BSc in Mathematics"
-  company = "École Centrale de Pékin, Beihang University"
+  title = "École Centrale de Pékin, Beihang University"
+  company = "BSc in Mathematics"
   company_url = ""
   location = "Beijing, China"
   date_start = "2011-09-01"
