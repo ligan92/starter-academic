@@ -6,32 +6,35 @@ title: Li GAN
 superuser: true
 
 # Role/position
-role: PhD candidate in mathematical physics
+role: PhD candidate in physics
 
 # Organizations/Affiliations
 organizations:
-- name: Laboratoire de Physique Théorique et Modèles Statistiques, France
-  url: ""
+- name: LPTMS, France
+  url: "http://lptms.u-psud.fr/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My PhD topics is about the lattice random walks and exclusion statistics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical physics
+- Enumerative combinatorics
+- Random walks
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mathematical Physics
+    institution: Université Paris-Saclay
+    year: 2023 (expected)
+  - course: MEng in Materials Science 
+    institution: École Centrale de Pékin, Beihang University
+    year: 2018
+  - course: MEng, Diplôme d'ingénieur
+    institution: École Centrale Paris
+    year: 2018
+  - course: BSc in Mathematics
+    institution: École Centrale de Pékin, Beihang University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
