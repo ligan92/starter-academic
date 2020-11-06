@@ -18,41 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "LPTMS, Universite Paris-Saclay"
-  company = "PhD candidate in mathematical physics"
-  company_url = "http://lptms.u-psud.fr/en/"
-  location = "Orsay, France"
-  date_start = "2020-10-01"
-  date_end = ""
+  title = "PaperClip"
+  company = "Author"
+  company_url = "https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg"
+  location = "Beijing, China"
+  date_start = "2019-10-01"
+  date_end = "2020-09-01"
   description = """
-  Thesis on the exclusion statistics and lattice random walks.
-  The main fields of interest are combinatorial issues pertaining to the algebraic area of 2D lattice random walks and their continuous Brownian limit, and various implications for the associated quantum models, especially in the field of exclusion statistics, where particles exhibit stronger exclusion than Pauli. It may be generalized to other types of counting, or to higher-dimensional objects (strings, etc.).
+  Author serving for 回形针PaperClip, a Chinese popular science channel on YouTube, bilibili, Weibo, WeChat, etc. The topics include air traffic control, QR codes, chip manufacturing, deep-sea submersible, COVID-19 testing, ICU, ID cards, water meter, etc.
   """
 
 [[experience]]
-  title = "Beihang University"
-  company = "MEng in Materials Science"
-  company_url = "https://en.wikipedia.org/wiki/Beihang_University"
+  title = "Global Science (Scientific American in Simplified Chinese version)"
+  company = "Author"
+  company_url = ""
   location = "Beijing, China"
-  date_start = "2016-09-01"
-  date_end = "2018-07-01"
-  description = """Thesis on the theory of dielectric electrorheological (ER) fluids: to seek and optimize the structure of particles in ER fluids, by performing theoretical calculation and numerical simulation by Python and COMSOL, to help efficiently fabricate high-performance ER fluids in a laboratory setting."""
+  date_start = "2018-09-01"
+  date_end = "2018-12-01"
+  description = """Edit, proof and translate articles in popular science. Publish articles on new media, such as WeChat and Weibo."""
 
 [[experience]]
-  title = "École Centrale Paris (now known as CentraleSupelec)"
-  company = "MEng, Diplôme d'ingénieur"
+  title = "Airbus Group Innovations"
+  company = "Innovation Intern-Scouting"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2017-05-01"
+  date_end = "2018-01-01"
+  description = """Engineering internship which aims to develop sustainable scouting on R&T and innovation development in China."""
+
+[[experience]]
+  title = "Safran"
+  company = "Project Innovation"
   company_url = "https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris"
-  location = "France"
-  date_start = "2014-09-01"
-  date_end = "2016-07-01"
-  description = """Undergone a rigorous training on a wide range of disciplines."""
+  location = "Paris, France"
+  date_start = "2014-10-01"
+  date_end = "2015-06"
+  description = """Peeling test worked in a team of 5 colleagues in collaboration with Safran to provide a formula of energy release rate of crack propagation."""
 
-[[experience]]
-  title = "École Centrale de Pékin, Beihang University"
-  company = "BSc in Mathematics"
-  company_url = "https://en.wikipedia.org/wiki/%C3%89cole_centrale_de_P%C3%A9kin"
-  location = "Beijing, China"
-  date_start = "2011-09-01"
-  date_end = "2015-07-01"
-  description = """Intensive training in mathematics and physics."""
 +++
