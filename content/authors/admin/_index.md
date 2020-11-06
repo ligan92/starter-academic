@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Li GAN
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate in mathematical physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Laboratoire de Physique Théorique et Modèles Statistiques, France
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
