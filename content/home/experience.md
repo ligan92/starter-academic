@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   company_url = "https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris"
   location = "Paris, France"
   date_start = "2014-10-01"
-  date_end = "2015-06"
+  date_end = "2015-06-01"
   description = """Peeling test worked in a team of 5 colleagues in collaboration with Safran to provide a formula of energy release rate of crack propagation."""
 
 +++
