@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   * ICU
   * ID cards
   * water meter
-  * {{< youtube w7Ft2ymGmfc >}}
+  * {{< icon name="youtube" pack="fab" >}} Python 
   """
 
 [[experience]]
