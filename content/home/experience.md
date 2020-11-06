@@ -35,7 +35,6 @@ date_format = "Jan 2006"
   * ICU
   * ID cards
   * water meter
-  etc.
   """
 
 [[experience]]
