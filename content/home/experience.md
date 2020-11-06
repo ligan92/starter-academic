@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "LPTMS"
   company_url = ""
   location = "Orsay, France"
-  date_start = "2020-10-01"
+  date_start = "2020-10"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +33,29 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "MEng in Materials Science"
+  company = "Beihang University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Beijing, China"
+  date_start = "2016-09"
+  date_end = "2018-07"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "MEng, Diplôme d'ingénieur"
+  company = "École Centrale Paris"
+  company_url = ""
+  location = "France"
+  date_start = "2014-09"
+  date_end = "2016-07"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "BSc in Mathematics"
+  company = "École Centrale de Pékin, Beihang University"
+  company_url = ""
+  location = "France"
+  date_start = "2011-09"
+  date_end = "2015-07"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 +++
