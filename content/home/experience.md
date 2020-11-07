@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-09-01"
   description = """
-  Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), [bilibili](https://space.bilibili.com/258150656), and [Weibo](https://weibo.com/p/1005056414205745). The topics include:
+  Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), [bilibili](https://space.bilibili.com/258150656), and [Sina Weibo](https://weibo.com/p/1005056414205745). The topics include:
   * [COVID-19](https://youtu.be/0ySYM4kRJVY) (substitle available)
   * [air traffic control](https://youtu.be/5ZphSjh1ngU) (substitle available)
   * [QR code](https://youtu.be/XW8sgT_D0To)
