@@ -25,16 +25,19 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-09-01"
   description = """
-  Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), [bilibili](https://space.bilibili.com/258150656), [Weibo](https://weibo.com/p/1005056414205745), WeChat, etc. The topics include:
-  * COVID-19 ([video with English subtitle](https://www.youtube.com/watch?v=0ySYM4kRJVY))
-  * air traffic control ([video with English subtitle](https://www.youtube.com/watch?v=5ZphSjh1ngU))
-  * [QR codes](https://www.youtube.com/watch?v=XW8sgT_D0To)
-  * [chip manufacturing](https://www.youtube.com/watch?v=Co7-_d1NjkM)
-  * deep-sea submersible
-  * COVID-19 testing
-  * ICU
-  * ID cards
-  * water meter
+  Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), [bilibili](https://space.bilibili.com/258150656), and [Weibo](https://weibo.com/p/1005056414205745). The topics include:
+  * [COVID-19](https://youtu.be/0ySYM4kRJVY) (substitle available)
+  * [air traffic control](https://youtu.be/5ZphSjh1ngU) (substitle available)
+  * [QR code](https://youtu.be/XW8sgT_D0To)
+  * [chip manufacturing](https://youtu.be/Co7-_d1NjkM)
+  * Deep-sea submersible (coming soon)
+  * [COVID-19 testing](https://youtu.be/jMN8vKV339Q)
+  * [ICU](https://youtu.be/yMkJxLybIsY) (substitle available)
+  * [CD](https://youtu.be/iygjJ8M7jnM)
+  * [Water meter](https://youtu.be/LDjPZBbQ_JI)
+  * [Screw shot](https://youtu.be/GKXxcgL5Hvg)
+  * [Resident Identity Card](https://youtu.be/n-FAYmSpopQ)
+  etc.
   """
 
 [[experience]]
