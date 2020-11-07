@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), [bilibili](https://space.bilibili.com/258150656), and [Sina Weibo](https://weibo.com/p/1005056414205745). The topics include:
   * [COVID-19](https://youtu.be/0ySYM4kRJVY) (substitle available)
-  * [air traffic control](https://youtu.be/5ZphSjh1ngU) (substitle available)
+  * [Air Traffic Control](https://youtu.be/5ZphSjh1ngU) (substitle available)
   * [QR code](https://youtu.be/XW8sgT_D0To)
-  * [chip manufacturing](https://youtu.be/Co7-_d1NjkM)
+  * [Chip manufacturing](https://youtu.be/Co7-_d1NjkM)
   * Deep-sea submersible (coming soon)
   * [COVID-19 testing](https://youtu.be/jMN8vKV339Q)
   * [ICU](https://youtu.be/yMkJxLybIsY) (substitle available)
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Global Science (Scientific American in Simplified Chinese version)"
-  company = "Author"
+  company = "Internship - Author"
   company_url = ""
   location = "Beijing, China"
   date_start = "2018-09-01"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Airbus Group Innovations"
-  company = "Innovation Intern-Scouting"
+  company = "Internship - Innovation Scouting"
   company_url = ""
   location = "Beijing, China"
   date_start = "2017-05-01"
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   description = """Engineering internship which aims to develop sustainable scouting on R&T and innovation development in China."""
 
 [[experience]]
-  title = "Safran"
+  title = "Safran Herakles & Centrale Paris"
   company = "Project Innovation"
   company_url = "https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris"
   location = "Paris, France"
