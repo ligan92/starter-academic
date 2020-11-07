@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   * [Water meter](https://youtu.be/LDjPZBbQ_JI)
   * [Screw shot](https://youtu.be/GKXxcgL5Hvg)
   * [Resident Identity Card](https://youtu.be/n-FAYmSpopQ)
-  etc.
+  * etc.
   """
 
 [[experience]]
