@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   description = """Thesis on the theory of dielectric electrorheological (ER) fluids: to seek and optimize the structure of particles in ER fluids, by performing theoretical calculation and numerical simulation by Python and COMSOL, to help efficiently fabricate high-performance ER fluids in a laboratory setting."""
 
 [[experience]]
-  title = "École Centrale Paris (now known as CentraleSupélec, Université Paris-Saclay)"
-  company = "MEng, Diplôme d'ingénieur"
+  title = "École Centrale Paris (now known as CentraleSupélec)"
+  company = "MEng, Diplôme d'ingénieur (Promotion Louis Blériot)"
   company_url = "https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris"
   location = "France"
   date_start = "2014-09-01"
