@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "LPTMS, Universite Paris-Saclay"
+  title = "LPTMS, Université Paris-Saclay"
   company = "PhD candidate in mathematical physics"
   company_url = "http://lptms.u-psud.fr/en/"
   location = "Orsay, France"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = """Thesis on the theory of dielectric electrorheological (ER) fluids: to seek and optimize the structure of particles in ER fluids, by performing theoretical calculation and numerical simulation by Python and COMSOL, to help efficiently fabricate high-performance ER fluids in a laboratory setting."""
 
 [[experience]]
-  title = "École Centrale Paris (now known as CentraleSupelec)"
+  title = "École Centrale Paris (now known as CentraleSupélec, Université Paris-Saclay)"
   company = "MEng, Diplôme d'ingénieur"
   company_url = "https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris"
   location = "France"
