@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "École Centrale Paris (now known as CentraleSupélec)"
-  company = "MEng, Diplôme d'ingénieur (Promotion Louis Blériot)"
+  company = "MEng, Diplôme d'ingénieur"
   company_url = "https://en.wikipedia.org/wiki/%C3%89cole_Centrale_Paris"
   location = "France"
   date_start = "2014-09-01"
