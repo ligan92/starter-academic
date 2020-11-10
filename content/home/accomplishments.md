@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coming soon"
-  organization_url = ""
+  organization = ""
+  organization_url = "Coming soon"
   title = ""
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2020-11-01"
   date_end = ""
   description = ""
 
