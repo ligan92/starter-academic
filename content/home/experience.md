@@ -26,13 +26,13 @@ date_format = "Jan 2006"
   date_end = "2020-09-01"
   description = """
   Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), [bilibili](https://space.bilibili.com/258150656), and [Sina Weibo](https://weibo.com/p/1005056414205745). The topics include:
-  * [COVID-19](https://youtu.be/0ySYM4kRJVY) (substitle available)
-  * [Air Traffic Control](https://youtu.be/5ZphSjh1ngU) (substitle available)
+  * [COVID-19](https://youtu.be/0ySYM4kRJVY) (subtitles available)
+  * [Air Traffic Control](https://youtu.be/5ZphSjh1ngU) (subtitles available)
   * [QR code](https://youtu.be/XW8sgT_D0To)
   * [Chip manufacturing](https://youtu.be/Co7-_d1NjkM)
-  * Deep-sea submersible (coming soon)
+  * [Deep-sea submersible](https://youtu.be/INUb-e0R89g)
   * [COVID-19 testing](https://youtu.be/jMN8vKV339Q)
-  * [ICU](https://youtu.be/yMkJxLybIsY) (substitle available)
+  * [ICU](https://youtu.be/yMkJxLybIsY) (subtitles available)
   * [CD](https://youtu.be/iygjJ8M7jnM)
   * [Water meter](https://youtu.be/LDjPZBbQ_JI)
   * [Screw shot](https://youtu.be/GKXxcgL5Hvg)
