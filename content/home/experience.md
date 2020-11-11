@@ -33,10 +33,10 @@ date_format = "Jan 2006"
   * [How to dive 10,000 meters under the sea?](https://youtu.be/INUb-e0R89g)
   * [How to efficiently screen COVID-19 by nucleic acid testing?](https://youtu.be/jMN8vKV339Q)
   * [What actually happens in an ICU?](https://youtu.be/yMkJxLybIsY) (subtitles available)
-  * [What is in the CD?](https://youtu.be/iygjJ8M7jnM)
+  * [What is in a CD?](https://youtu.be/iygjJ8M7jnM)
   * [Hello there! Check the water meter!](https://youtu.be/LDjPZBbQ_JI)
   * [How to kick an amazing curve ball?](https://youtu.be/GKXxcgL5Hvg)
-  * [What is in the Resident Identity Card?](https://youtu.be/n-FAYmSpopQ)
+  * [What is in a Resident Identity Card?](https://youtu.be/n-FAYmSpopQ)
   * etc.
   """
 
