@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = "2020-09-01"
   description = """
   Author serving for 回形针PaperClip, a Chinese popular science channel on [YouTube](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg), [bilibili](https://space.bilibili.com/258150656), and [Sina Weibo](https://weibo.com/p/1005056414205745). I participated in the creation of the following videos:
-  * [Things you must know about COVID-19.](https://youtu.be/0ySYM4kRJVY) (subtitles available)
+  * [Things you should know about COVID-19.](https://youtu.be/0ySYM4kRJVY) (subtitles available)
   * [How to ATC for 1.4 billion people?](https://youtu.be/5ZphSjh1ngU) (subtitles available)
   * [Secret in the QR code.](https://youtu.be/XW8sgT_D0To)
   * [How to engrave chips at the nanoscale?](https://youtu.be/Co7-_d1NjkM)
