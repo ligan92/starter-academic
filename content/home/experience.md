@@ -36,6 +36,7 @@ date_format = "Jan 2006"
   * [What is in a CD?](https://youtu.be/iygjJ8M7jnM)
   * [Hello there! Check the water meter!](https://youtu.be/LDjPZBbQ_JI)
   * [How to kick an amazing curve ball?](https://youtu.be/GKXxcgL5Hvg)
+  * [Do you really need a 120 Hz refresh rate screen?](https://youtu.be/8qT2anaI884)
   * [What is in a Resident Identity Card?](https://youtu.be/n-FAYmSpopQ)
   * etc.
   """
