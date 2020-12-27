@@ -43,7 +43,7 @@ bio: My PhD topics is about the lattice random walks and exclusion statistics.
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:li.gan@u-psud.fr"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:li.gan@universite-paris-saclay.fr"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LiGan1992

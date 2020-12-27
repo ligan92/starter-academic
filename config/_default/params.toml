@@ -101,11 +101,11 @@ address = {street = "Bâtiment Pascal n° 530, Rue André Rivière", city = "Ors
 coordinates = {latitude = "48.7066", longitude = "2.17710"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building No. 530 and take the stairs to Office L221 on the 3rd floor"
+directions = "Enter Building No. 530 and take stairs to Office L221 on the 3rd floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Friday 10:00-19:00"]
+office_hours = ["Monday - Friday 9:30-19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
