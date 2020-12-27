@@ -89,7 +89,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "li.gan@u-psud.fr"
+email = ""
 phone = ""
 
 # Address
@@ -105,7 +105,7 @@ directions = "Enter Building No. 530 and take the stairs to Office L221 on the 3
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Friday 9:30-19:00"]
+office_hours = ["Monday-Friday 10:00-19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -188,7 +188,7 @@ plugins_js  = []
 [publications]
   # Date format (refer to https://wowchemy.com/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Mon, Jan 2, 2006"
+  date_format = "Jan 2, 2006"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
@@ -235,7 +235,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

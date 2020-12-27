@@ -79,4 +79,4 @@ Li GAN is a PhD candidate in mathematical physics at [Laboratoire de Physique Th
 
 "The most difficult thing is not facing setbacks and frustrations, but facing them without losing the enthusiasm for life." By [Dr. Wen-je Ko](https://youtu.be/N0zhdMwD2Z8), doctor, and mayor of Taipei City
 
-Updated: November 11, 2020
+Updated: December 2020
