@@ -1,9 +1,9 @@
 +++
-title = "Analyzing Student Behavior in Online Programming Courses"
-date = 2018-05-25T00:00:00
+title = "Electrostatic force between two dielectric particles in electrorheological fluids: beyond spherical particles"
+date = 2018-08-06T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin"]
+authors = ["Li Gan", "Wei An","Hongzhe Tang"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -22,13 +22,13 @@ publication = "In *Source Themes Conference*"
 publication_short = "In *STC*"
 
 # Abstract.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+abstract = "In an effort to increase the shear yield stress of dielectric electrorheological fluids, we focus on the electrostatic force of different forms of particles in a dielectric polarization model. By solving Laplace‘s equation and applying the multiple image method and the finite element method, the analytical and numerical solutions of the electrostatic force of a two-sphere structure have been studied. The results suggest that when the dielectric mismatch factor is large and when the positions of the two spheres are nearly in contact with each other, most of the analytical solutions either over-or underestimate the force. Additionally, the structure of particles beyond the spherical form is considered. Three example cases are studied to shed light on how different geometries of particles may affect the electrostatic force, thereby influencing the shear yield stress of the fluid."
 
 # Summary. An optional shortened abstract.
-summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
+#summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1051/matecconf/201818704001"
 
 # Is this a featured publication? (true/false)
 featured = false
