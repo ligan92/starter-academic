@@ -1,4 +1,4 @@
-+++ title = "Electrostatic force between two dielectric particles in electrorheological fluids: beyond spherical particles" date = 2018-08-06T00:00:00
+title = "Electrostatic force between two dielectric particles in electrorheological fluids: beyond spherical particles" date = 2018-08-06T00:00:00
 
 Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
 authors = ["Li Gan", "Wei An","Hongzhe Tang"]
