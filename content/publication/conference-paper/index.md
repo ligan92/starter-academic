@@ -18,11 +18,11 @@ authors = ["Li Gan", "Wei An","Hongzhe Tang"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Source Themes Conference*"
-publication_short = "In *STC*"
+#publication = ""
+#publication_short = ""
 
 # Abstract.
-abstract = "In an effort to increase the shear yield stress of dielectric electrorheological fluids, we focus on the electrostatic force of different forms of particles in a dielectric polarization model. By solving Laplace‘s equation and applying the multiple image method and the finite element method, the analytical and numerical solutions of the electrostatic force of a two-sphere structure have been studied. The results suggest that when the dielectric mismatch factor is large and when the positions of the two spheres are nearly in contact with each other, most of the analytical solutions either over-or underestimate the force. Additionally, the structure of particles beyond the spherical form is considered. Three example cases are studied to shed light on how different geometries of particles may affect the electrostatic force, thereby influencing the shear yield stress of the fluid."
+# abstract = ""
 
 # Summary. An optional shortened abstract.
 #summary = ""
@@ -54,7 +54,7 @@ projects = ["internal-project"]
 slides = "example"
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "L GAN_Electrostatic force between two dielectric particles in electrorheological fluids beyond spherical particles"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
