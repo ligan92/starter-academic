@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, C, Mathematica"
+  description = "Python, C, C++, Mathematica"
   
 [[feature]]
   icon = "chart-line"
