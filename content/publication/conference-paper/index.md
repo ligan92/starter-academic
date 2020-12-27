@@ -54,7 +54,7 @@ projects = ["internal-project"]
 slides = "example"
 
 # Links (optional).
-url_pdf = "L GAN_Electrostatic force between two dielectric particles in electrorheological fluids beyond spherical particles"
+url_pdf = "https://www.matec-conferences.org/articles/matecconf/pdf/2018/46/matecconf_iccmp2018_04001.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
