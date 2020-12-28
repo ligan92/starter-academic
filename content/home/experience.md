@@ -71,7 +71,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Beijing Youth Daily"
-  company = "Tablet Application Development Contest"
+  company = "Mobile Application Development Contest"
   company_url = "https://en.wikipedia.org/wiki/Beijing_Youth_Daily"
   location = "Beijing, China"
   date_start = "2012-02-01"
