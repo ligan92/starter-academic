@@ -76,6 +76,6 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2012-02-01"
   date_end = "2013-07-01"
-  description = """Participate in the 1st and 2nd National Android-like Tablet Application Development Contest, and rank Top 10 and Top 15 respectively. The work includes the periodic table of elements, [The Twenty-four Filial Exemplars](https://en.wikipedia.org/wiki/The_Twenty-four_Filial_Exemplars), traditional Chinese medicine (cooperated with [Tong Ren Tang](https://en.wikipedia.org/wiki/Tong_Ren_Tang)), etc."""
+  description = """Participate in the 1st and 2nd National Android-like Tablet Application Development Contest, and rank Top 10 and Top 15 respectively. The work includes the periodic table of elements, [The Twenty-four Filial Exemplars](https://en.wikipedia.org/wiki/The_Twenty-four_Filial_Exemplars), traditional Chinese medicine (cooperated with [Beijing TRT Group](https://en.wikipedia.org/wiki/Tong_Ren_Tang)), etc."""
 
 +++
