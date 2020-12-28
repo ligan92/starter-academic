@@ -34,6 +34,7 @@ date_format = "Jan 2006"
   * [How to efficiently screen COVID-19 by nucleic acid testing?](https://youtu.be/jMN8vKV339Q)
   * [What actually happens in an ICU?](https://youtu.be/yMkJxLybIsY) (subtitles available)
   * [What is in a CD?](https://youtu.be/iygjJ8M7jnM)
+  * [How to make a light but warm thermal underwear?](https://youtu.be/3DWsh-Tiyiw)
   * [Hello there! Check the water meter!](https://youtu.be/LDjPZBbQ_JI)
   * [How to kick an amazing curve ball?](https://youtu.be/GKXxcgL5Hvg)
   * [Do you really need a 120 Hz refresh rate screen?](https://youtu.be/8qT2anaI884)
@@ -67,5 +68,14 @@ date_format = "Jan 2006"
   date_start = "2014-10-01"
   date_end = "2015-06-01"
   description = """Peeling test worked in a team of 5 colleagues in collaboration with Safran to provide a formula of energy release rate of crack propagation."""
+
+[[experience]]
+  title = "Beijing Youth Daily"
+  company = "Tablet Application Development Contest"
+  company_url = "https://en.wikipedia.org/wiki/Beijing_Youth_Daily"
+  location = "Beijing, China"
+  date_start = "2012-02-01"
+  date_end = "2013-07-01"
+  description = """Participate in the 1st and 2nd National Android-like Tablet Application Development Contest, and rank Top 10 and Top 15 respectively. The work includes the periodic table of elements, [The Twenty-four Filial Exemplars](https://en.wikipedia.org/wiki/The_Twenty-four_Filial_Exemplars), traditional Chinese medicine (cooperated with [Tong Ren Tang](https://en.wikipedia.org/wiki/Tong_Ren_Tang)), etc."""
 
 +++
