@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Li GAN is a PhD candidate in mathematical physics at [Laboratoire de Physique Théorique et Modèles Statistiques](http://lptms.u-psud.fr/en), Université Paris-Saclay, France. His research interests include statistical physics, enumerative combinatorics, and random walks. He is now working under Professor [Stéphane Ouvry](https://scholar.google.com/citations?user=5lNNIzYAAAAJ) on lattice random walks and exclusion statistics.
+Li GAN is a PhD candidate in mathematical physics at [Laboratoire de Physique Théorique et Modèles Statistiques](http://lptms.u-psud.fr/en), Université Paris-Saclay, France. His research interests include statistical physics, enumerative combinatorics, and random walks. He is now working under Professor [Stéphane Ouvry](https://scholar.google.com/citations?user=5lNNIzYAAAAJ) on [lattice random walks and exclusion statistics](http://www.theses.fr/s252875).
 
 "The most difficult thing is not facing setbacks and frustrations, but facing them without losing the enthusiasm for life." By [Dr. Wen-je Ko](https://youtu.be/N0zhdMwD2Z8), doctor, and mayor of Taipei City
 
