@@ -89,8 +89,8 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-# email = ""
-# phone = ""
+email = "li.gan@universite-paris-saclay.fr"
+phone = "(+33) 01 69 15 40 79"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
