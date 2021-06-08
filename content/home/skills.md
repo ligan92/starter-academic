@@ -18,19 +18,19 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python, C and Mathematica"
+  description = "Python, C, C++, Mathematica"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "80%"  
+  description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "60%"
+  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
