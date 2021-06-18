@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+<!-- [[experience]]
   title = "PaperClip"
   company = "Author"
   company_url = "https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   * [Do you really need a 120 Hz refresh rate screen?](https://youtu.be/8qT2anaI884)
   * [What is in a Resident Identity Card?](https://youtu.be/n-FAYmSpopQ)
   * etc.
-  """
+  """ -->
 
 [[experience]]
   title = "Global Science (Scientific American in Simplified Chinese version)"
